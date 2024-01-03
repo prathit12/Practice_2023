@@ -1,3 +1,5 @@
+//Addition when data is stored in Linked List form.
+
 class ListNode {
 
     int val;
